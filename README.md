@@ -80,7 +80,7 @@ DS4002-Project3
 
 ## 3. Reproducing Our Results
   1. **Set up Python and install required add-on packages**
-     - Clone this repository: https://github.com/jjyu130/DS4002-Project3/
+     - Clone this repository: https://github.com/joshua-jy-yu/WeatherEventImageClassifier/
      - Ensure you have Python 3 installed on your system.
      - See section 1 for packages needed.
   2. **(Optional) Prepare the dataset**
