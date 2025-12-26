@@ -80,7 +80,7 @@ DS4002-Project3
 └── README.md
 ```
 
-## 3. Reproducing Our Results
+## 3. Reproducing the Results
   1. **Set up Python and install required add-on packages**
      - Clone this repository: https://github.com/joshua-jy-yu/WeatherEventImageClassifier/
      - Ensure you have Python 3 installed on your system.
@@ -95,7 +95,8 @@ DS4002-Project3
      - Scripts 2-4 build, train, and evaluate 2 CNN models on the prepared `DATA/dataset_split/` directory.
        Models and evaluation metrics are saved to `OUTPUT` folder.
 
-
- 
+## Authors:
+- Joshua Yu - uqj7ur@virginia.edu
+- Evelyn Maxwell - nhk9hb@virginia.edu
 
      
