@@ -1,4 +1,4 @@
-# Investigating Reproducibility of Weather Event Image Classifier
+# Weather Event Image Classifier
 
 <img src="./images/hurricane.jpg" width= 50% alt="Alt text" />
 NOAA Image of Hurricane Katrina - August 29, 2025
