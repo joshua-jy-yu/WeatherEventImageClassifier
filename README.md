@@ -1,5 +1,7 @@
 # Investigating Reproducibility of Weather Event Image Classifier
 
+<img src="./images/hurricane.jpg" width= 50% alt="Alt text" />
+NOAA Image of Hurricane Katrina - August 29, 2025
 
 ## 1. Software and Platform
 - **Platform Used:** Mac was used to write and run scripts. The scripts can be run across platforms.
